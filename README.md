@@ -20,4 +20,9 @@ At Fozzy Cuts, we believe in more than just a haircut; we offer a bespoke experi
 Stay updated with the latest styles and our special offers by following us on Instagram [@fozzy_cuts](https://www.instagram.com/fozzy_cuts/).
 
 Thank you for choosing Fozzy Cuts – where your new look awaits!
+
+
+
+
+
 ![Fozzy Logo](https://raw.githubusercontent.com/BibhasS/Fozzy-Cuts-website/main/images/Fozzy%20Cuts.png)
